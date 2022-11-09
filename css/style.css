@@ -5,7 +5,7 @@
 /* hero background image */
 .bgimage {
     height:100vh;
-    background: url('https://raw.githubusercontent.com/SampurnaC/portfolio_website_fcc/master/images/heroImage.jpeg');
+    background: url('https://img.freepik.com/free-vector/gradient-network-connection-background_23-2148865392.jpg?w=1060&t=st=1667990989~exp=1667991589~hmac=6c22f4a138f7707f1c6717c64f586a8e76096cdc94fa0d91253b545d678b3f9b');
     background-size:cover;
     position:relative;
 }
