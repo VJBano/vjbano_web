@@ -1,4 +1,12 @@
 const header = document.querySelector('.navbar');
+const copyright = document.getElementById('copyright')
+
+const date = new Date()
+
+const year = date.getFullYear()
+
+copyright.innerHTML = "<p>Copyright @"+year+" Vincent Jay Bano</p>"
+
 console.log(header)
 window.onscroll = function() {
     const top = window.scrollY;
