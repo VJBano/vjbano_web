@@ -5,7 +5,7 @@ const date = new Date()
 
 const year = date.getFullYear()
 
-copyright.innerHTML = "<p>Copyright @"+year+" Vincent Jay Bano</p>"
+copyright.innerHTML = "<p>Copyright<sup>&copy;</sup> "+year+" Vincent Jay Bano</p>"
 
 console.log(header)
 window.onscroll = function() {
